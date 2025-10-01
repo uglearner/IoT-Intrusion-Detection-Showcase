@@ -1,0 +1,18 @@
+import pandas as pd
+
+# Load tiny sample dataset
+df = pd.read_csv("../data/sample_dataset.csv")
+print("Sample dataset loaded:")
+print(df.head())
+
+
+open -e code/preprocessing_demo.py
+
+import pandas as pd
+
+# Load tiny sample dataset
+df = pd.read_csv("../data/sample_dataset.csv")
+print("Sample dataset loaded:")
+print(df.head())
+
+

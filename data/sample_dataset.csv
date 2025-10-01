@@ -1,0 +1,11 @@
+feature1,feature2,feature3,label
+10,5,0,normal
+15,3,1,attack
+12,7,0,normal
+20,2,1,attack
+18,4,0,normal
+25,6,1,attack
+14,5,0,normal
+22,3,1,attack
+16,7,0,normal
+19,2,1,attack
